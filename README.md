@@ -1,6 +1,6 @@
 # サンプルデータを生成するやつ
 
-発表で使用したデータを生成します。
+[この発表](https://speakerdeck.com/mihyaeru21/mysql-data-structure-for-web-developer-2)で使用したデータを生成します。
 Rakefileの先頭付近の環境変数を空気を読んで設定しつつ実行します。
 
 ```
